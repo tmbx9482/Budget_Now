@@ -13,6 +13,8 @@ Offline Functionality:
 When brought back online:
 
   * Offline entries should be added to tracker.
+## Preview
+![Screenshot (161)](https://user-images.githubusercontent.com/62157127/98052381-1a9aff00-1e04-11eb-9d46-64f0d6085645.png)
 
 ## User Story
 ```
