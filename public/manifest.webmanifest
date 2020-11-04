@@ -15,6 +15,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "To be determined",
+    "start_url": "https://git.heroku.com/budgeting-money-777.git",
     "display": "standalone"
 }
